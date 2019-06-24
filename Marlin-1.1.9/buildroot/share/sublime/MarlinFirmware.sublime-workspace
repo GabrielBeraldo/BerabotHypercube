@@ -1,0 +1,521 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tras",
+				"transmittingStatusLed"
+			],
+			[
+				"transmit",
+				"transmittingStatus"
+			],
+			[
+				"digital",
+				"digitalWrite\tDeviot digitalWrite"
+			],
+			[
+				"temp",
+				"temp_amb"
+			],
+			[
+				"connection",
+				"connectionTrys"
+			],
+			[
+				"update",
+				"updateOutputs"
+			],
+			[
+				"wifi",
+				"wifiConnected"
+			],
+			[
+				"swPress_",
+				"swPress_1"
+			],
+			[
+				"lightStat",
+				"lightStat_1"
+			],
+			[
+				"lightS",
+				"lightStat_4"
+			],
+			[
+				"ledDim",
+				"ledDim_stat"
+			],
+			[
+				"hum",
+				"humStr"
+			],
+			[
+				"try",
+				"connectionTry"
+			],
+			[
+				"mq",
+				"mqtt_passwd"
+			],
+			[
+				"mqtt",
+				"mqtt_username"
+			],
+			[
+				"led",
+				"ledDim"
+			],
+			[
+				"light",
+				"lightBrightness"
+			],
+			[
+				"if",
+				"ifdef\tDeviot Macro ifdef"
+			],
+			[
+				"messa",
+				"messageString"
+			],
+			[
+				"brit",
+				"setBrightness"
+			],
+			[
+				"attic",
+				"atticLight"
+			],
+			[
+				"linke",
+				"linkedinAdd"
+			],
+			[
+				"biop",
+				"bioprint"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"align",
+				"vertical-align"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "MarlinFirmware.sublime-workspace",
+			"settings":
+			{
+				"buffer_size": 2,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "MarlinFirmware.sublime-project",
+			"settings":
+			{
+				"buffer_size": 377,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 71.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"c",
+				"Set Syntax: C"
+			],
+			[
+				"matla",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"set",
+				"Set Syntax: C++"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"beuty",
+				"HTMLBeautify"
+			],
+			[
+				"color sche",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color sch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"set them",
+				"UI: Select Theme"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"gco",
+				"Set Syntax: G-code"
+			],
+			[
+				"tasm",
+				"Set Syntax: TASM"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Deviot: Find/Install Library"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 104.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Storage files/berabot hypercube/Marlin-1.1.9",
+		"/D/Storage files/berabot hypercube/Marlin-1.1.9/buildroot",
+		"/D/Storage files/berabot hypercube/Marlin-1.1.9/buildroot/share",
+		"/D/Storage files/berabot hypercube/Marlin-1.1.9/buildroot/share/sublime"
+	],
+	"file_history":
+	[
+		"/C/Users/gabri/Downloads/tv_channels_ex9zVJaURV.m3u",
+		"/C/Users/gabri/Downloads/tv_channels_gab36729_plus.m3u",
+		"/C/Users/gabri/Downloads/tv_channels_JNWSXVXR_plus.m3u",
+		"/C/Users/gabri/Downloads/cecetv.m3u",
+		"/E/octopi-wpa-supplicant.txt",
+		"/E/Wall-Mounted_Headphone_Holder.gcode",
+		"/C/Users/gabri/Desktop/Wall-Mounted_Headphone_Holder.gcode",
+		"/C/Users/gabri/Desktop/customizable_linear_bushing__v1.stl",
+		"/C/Users/gabri/Desktop/brushlessMount.stl",
+		"/C/Users/gabri/Desktop/cap_mount.stl",
+		"/C/Users/gabri/Desktop/motor_mount.stl",
+		"/C/Users/gabri/Desktop/atividade_5.m",
+		"/E/Atividades e Exercicios/Controle 3/Atividade_5/Atividade_5/Untitled.m",
+		"/D/Storage files/faculdade/Controle Avançado/End-term challenge/camacho/runner.m",
+		"/D/Storage files/faculdade/Controle Avançado/End-term challenge/Controller.m",
+		"/D/Storage files/faculdade/Controle Avançado/ControllerModulation/Camacho_PH.m",
+		"/D/Storage files/faculdade/Controle Avançado/End-term challenge/Runner_Single.m",
+		"/D/Storage files/faculdade/Controle Avançado/ControllerModulation/MIT_Rule.m",
+		"/C/Users/gabri/Downloads/Runner_Single (1).m",
+		"/D/Storage files/faculdade/Controle Avançado/End-term challenge/ProportionalController.m",
+		"/C/Users/gabri/Google Drive/Controle III lab/Atividade 5/atividade_RTS.m",
+		"/C/Users/gabri/Google Drive/Controle III lab/Atividade 2/lab2_script.m",
+		"/C/Users/gabri/Google Drive/Controle III lab/Atividade 5/atividade_RTS - v2.m",
+		"/C/Users/gabri/Google Drive/Controle III lab/Atividade 1/filtro.m",
+		"/C/Users/gabri/Desktop/ddosPython.py",
+		"/D/Storage files/faculdade/Controle Avançado/ControllerModulation/GainScheduling.m",
+		"/D/Storage files/faculdade/Controle Avançado/GainScheduling/GainScheduling.m",
+		"/D/Storage files/faculdade/Controle Avançado/Camacho/Camacho_PH.m",
+		"/D/Storage files/faculdade/Controle Avançado/MIT-rule/MIT_Rule.m",
+		"/C/Users/gabri/Google Drive/Controle III lab/Atividade 3 - Projeto de Controlador por Método Direto/script_lab3.m",
+		"/C/Users/gabri/Desktop/.bashrc",
+		"/C/Users/gabri/AppData/Local/Temp/Deviot/1540864616/src/1540864616.ino",
+		"/C/Users/gabri/Google Drive/Renault Camaras frias/espCamarasFriasCurl/espCamarasFriasCurl.txt",
+		"/C/Users/gabri/AppData/Local/Temp/Deviot/1540833555/src/1540833555.ino",
+		"/C/Users/gabri/AppData/Local/Temp/Deviot/1540829284/src/1540829284.ino",
+		"/C/Users/gabri/AppData/Local/Temp/Deviot/1540822911/src/1540822911.ino",
+		"/G/PiMonitoring.py",
+		"/C/Users/gabri/Desktop/accessories/atticLedLight_accessory.js",
+		"/C/Users/gabri/Documents/MobaXterm/slash/RemoteFiles/395568_11_4/start",
+		"/C/Users/gabri/AppData/Local/Temp/Deviot/1539642721/src/1539642721.ino",
+		"/C/Users/gabri/Documents/MobaXterm/slash/RemoteFiles/395568_11_0/start",
+		"/C/Users/gabri/AppData/Local/Temp/Deviot/1539611086/src/1539611086.ino",
+		"/C/Users/gabri/Desktop/accessories/atticLight1_accessory.js",
+		"/C/Users/gabri/AppData/Local/Temp/Deviot/1539213079/src/1539213079.ino",
+		"/C/Users/gabri/AppData/Local/Temp/Deviot/1539208693/src/1539208693.ino",
+		"/C/Users/gabri/Desktop/atticAutomation/platformio.ini",
+		"/C/Users/gabri/Desktop/atticAutomation/src/espLightReceiver.cpp",
+		"/C/Users/gabri/AppData/Local/Temp/Deviot/1539197128/src/1539197128.ino",
+		"/C/Users/gabri/Desktop/accessories/types.js",
+		"/C/Users/gabri/Desktop/accessories/atticLight3_accessory.js",
+		"/C/Users/gabri/AppData/Local/Temp/Deviot/1538700816/src/1538700816.ino",
+		"/C/Users/gabri/Google Drive/Renault Camaras frias/atticLightMQTT.py",
+		"/C/Users/gabri/Google Drive/Renault Camaras frias/mqttTest.py",
+		"/C/Users/gabri/Desktop/pubsubclient/README.md",
+		"/C/Users/gabri/Google Drive/Renault Camaras frias/mqtt-data-logger.py",
+		"/C/Users/gabri/Desktop/2ºSem2018/Controle Avançado/identificationTool/Ident_controller_model.m",
+		"/C/Users/gabri/Desktop/2ºSem2018/Controle Avançado/identificationTool/matlab.mat",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/gabri/Desktop/BioPrint-site/css/animate.css",
+		"/C/Users/gabri/Desktop/BioPrint-site/index.html",
+		"/C/Users/gabri/Desktop/Renault/CameraCapture.py",
+		"/C/Users/gabri/Desktop/BioPrint-site/vendor/bootstrap/css/bootstrap.min.css.map",
+		"/F/X-END-IDLER_PLA eSun_1.75_0.3.gcode",
+		"/F/nanosim_sim.gcode",
+		"/C/Users/gabri/Desktop/nanosim_sim.gcode",
+		"/C/Users/gabri/Desktop/site BioPrint/index.html",
+		"/C/Users/gabri/Desktop/site BioPrint/startbootstrap-creative-gh-pages/css/creative.css",
+		"/C/Users/gabri/Desktop/site BioPrint/startbootstrap-creative-gh-pages/css/creative.min.css",
+		"/C/Users/gabri/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/gabri/Desktop/HOME.gcode",
+		"/C/Users/gabri/Desktop/POWER_ON.gcode",
+		"/C/Users/gabri/Desktop/silk.ulp",
+		"/F/abs_xyzCalibration_cube.gcode",
+		"/D/pulvertech/pulvertech_V1/Pulvertech_V1_raw/src/Pulvertech_V1.cpp",
+		"/C/Users/gabri/Desktop/marketplace-bootstrap/src/index.html",
+		"/C/Users/gabri/Desktop/marketplace-bootstrap/src/app/menu-dt/menu-dt.component.html",
+		"/D/berabot hypercube/Marlin/platformio.ini",
+		"/C/Users/gabri/Downloads/SolidWorks 2017 SP5 Full Premium + Activator - [CrackzSoft]/_SolidSQUAD_/readme.txt",
+		"/C/Users/gabri/Desktop/BioPrint_Paused_keychain.gcode",
+		"/C/Users/gabri/Desktop/BIG_BioPrint_keychain.gcode",
+		"/E/config.txt",
+		"/E/octopi-network.txt",
+		"/E/octopi.txt",
+		"/C/Users/gabri/Desktop/FreeBird-Site/scss/_bootstrap-overrides.scss",
+		"/C/Users/gabri/Desktop/FreeBird-Site/vendor/bootstrap/js/bootstrap.bundle.js",
+		"/C/Users/gabri/Desktop/bootstrap/Menu/js/index.js",
+		"/C/Users/gabri/Desktop/bootstrap/Menu/css/style.css",
+		"/C/Users/gabri/Desktop/bootstrap/css/bootstrap-grid.min.css",
+		"/C/Users/gabri/Desktop/bootstrap/css/bootstrap.min.css",
+		"/C/Users/gabri/Desktop/MVEditor.12.1.0/info.txt",
+		"/C/Users/gabri/Desktop/paper.txt",
+		"/C/Users/gabri/AppData/Local/Temp/Rar$DIa4400.24216/Read Me.txt",
+		"/D/pulvertech/pulvertech_V1/Acquisitions/acquisition06_p100_secondStage.csv",
+		"/D/pulvertech/pulvertech_V1/Acquisitions/acquisition06_p100.csv",
+		"/C/Users/gabri/AppData/Roaming/Sublime Text 3/Packages/User/PlatformIO.sublime-build",
+		"/D/pulvertech/pulvertech_V1/Pulvertech_V1_raw/platformio.ini"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "MarlinFirmware.sublime-workspace",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "MarlinFirmware.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 377,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "MarlinFirmware.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 349.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
